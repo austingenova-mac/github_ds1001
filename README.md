@@ -12,6 +12,8 @@ By the end of this tutorial, you will be able to:
 - Handle merge conflicts and common Git scenarios
 - Follow best practices for version control
 
+test
+
 ## 📚 Tutorial Structure
 
 ### Part 1: Introduction to Version Control
